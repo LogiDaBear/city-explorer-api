@@ -5,7 +5,8 @@
 - - - - - - - - - - - - - - - - - - - - - - - - 
 ## WRRC
 
-![WRRC](https://user-images.githubusercontent.com/81731210/227399862-91b14902-f32f-460f-8fc8-e0793c00d704.png)
+![WRRC](https://user-images.githubusercontent.com/81731210/227656205-a1f96c9a-b341-4acc-a0ce-705d5ca059d5.png)
+
 - - - - - - - - - - - - - - - - - - - - - - - - 
 ## Change Log
 
@@ -40,3 +41,12 @@ Finish time: _7pm____
 
 Actual time needed to complete: __1hr___
 - - - - - - - - - - - - - - - - - - - - - - - - 
+Name of feature: ___Cache for data_kept w/in 24hours_____
+
+Estimate of time needed to complete: _2hr___
+
+Start time: _5pm__
+
+Finish time: _6pm__
+
+Actual time needed to complete: __1hr__
